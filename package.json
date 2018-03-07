@@ -1,0 +1,11 @@
+{
+  "name": "bot-jenkins",
+  "version": "1.0.0",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "cross-env": "5.0.5",
+    "jsonfile": "^4.0.0",
+    "request": "^2.83.0",
+    "rx": "^4.1.0"
+  }
+}
